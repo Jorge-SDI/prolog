@@ -1,0 +1,2 @@
+# prolog
+proyecto logica
